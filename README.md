@@ -19,6 +19,6 @@ Ratan Deep Mishra | MERN Stack Developer<br><br>Curious about how things work un
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ratan1501&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=ratan1501&label=Profile%20Views&color=green&style=plastic" alt="Profile Views" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
