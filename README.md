@@ -22,7 +22,14 @@ MERN Stack Developer | Problem Solver | System Design Enthusiast
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<img src="https://komarev.com/ghpvc/?username=ratan1501&label=Profile%20Views&color=green&style=plastic&label=Visitor+Counter" alt="Profile Views" />
+
+<p align="center">
+  <img src="https://github.com/ratan1501/ratan1501/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ratan1501&label=Visitor+Counter&color=green&style=plastic" alt="Profile Views" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
