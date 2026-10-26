@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#00f0ff"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+<style>.b{transform-box:fill-box;transform-origin:bottom;animation:eq ease-in-out infinite alternate;opacity:.8}
+@keyframes eq{from{transform:scaleY(.12)}to{transform:scaleY(var(--m))}}</style></defs>
+<rect width="900" height="170" rx="16" fill="#05070f"/>
+<g y="40">
+<rect class="b" x="30" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:.9;animation-duration:1.3s"/>
+<rect class="b" x="53" y="35" width="10" height="75" rx="3" fill="#8b5cf6" style="--m:.5;animation-duration:0.9s"/>
+<rect class="b" x="76" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:.75;animation-duration:1.7s"/>
+<rect class="b" x="99" y="35" width="10" height="75" rx="3" fill="#8b5cf6" style="--m:1;animation-duration:1.1s"/>
+<rect class="b" x="122" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:.6;animation-duration:2.1s"/>
+<rect class="b" x="145" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:.85;animation-duration:1.4s"/>
+<rect class="b" x="168" y="35" width="10" height="75" rx="3" fill="#8b5cf6" style="--m:.45;animation-duration:1.0s"/>
+<rect class="b" x="191" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:.95;animation-duration:1.9s"/>
+<rect class="b" x="214" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:.7;animation-duration:1.2s"/>
+<rect class="b" x="237" y="35" width="10" height="75" rx="3" fill="#8b5cf6" style="--m:.55;animation-duration:1.6s"/>
+<rect class="b" x="260" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:1;animation-duration:2.0s"/>
+<rect class="b" x="283" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:.8;animation-duration:0.95s"/>
+<rect class="b" x="306" y="35" width="10" height="75" rx="3" fill="#8b5cf6" style="--m:.65;animation-duration:1.5s"/>
+<rect class="b" x="329" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:.9;animation-duration:1.25s"/>
+<rect class="b" x="352" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:.5;animation-duration:1.8s"/>
+<rect class="b" x="375" y="35" width="10" height="75" rx="3" fill="#8b5cf6" style="--m:.95;animation-duration:1.05s"/>
+<rect class="b" x="398" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:.7;animation-duration:2.2s"/>
+<rect class="b" x="421" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:1;animation-duration:1.35s"/>
+<rect class="b" x="444" y="35" width="10" height="75" rx="3" fill="#8b5cf6" style="--m:.6;animation-duration:1.75s"/>
+<rect class="b" x="467" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:.85;animation-duration:0.92s"/>
+<rect class="b" x="490" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:.55;animation-duration:1.95s"/>
+<rect class="b" x="513" y="35" width="10" height="75" rx="3" fill="#8b5cf6" style="--m:.9;animation-duration:1.15s"/>
+<rect class="b" x="536" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:.75;animation-duration:1.65s"/>
+<rect class="b" x="559" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:1;animation-duration:1.0s"/>
+<rect class="b" x="582" y="35" width="10" height="75" rx="3" fill="#8b5cf6" style="--m:.5;animation-duration:2.05s"/>
+<rect class="b" x="605" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:.8;animation-duration:1.45s"/>
+<rect class="b" x="628" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:.65;animation-duration:0.98s"/>
+<rect class="b" x="651" y="35" width="10" height="75" rx="3" fill="#8b5cf6" style="--m:.95;animation-duration:1.85s"/>
+<rect class="b" x="674" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:.6;animation-duration:1.3s"/>
+<rect class="b" x="697" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:.9;animation-duration:1.55s"/>
+<rect class="b" x="720" y="35" width="10" height="75" rx="3" fill="#8b5cf6" style="--m:.7;animation-duration:1.08s"/>
+<rect class="b" x="743" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:1;animation-duration:2.15s"/>
+<rect class="b" x="766" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:.55;animation-duration:1.22s"/>
+<rect class="b" x="789" y="35" width="10" height="75" rx="3" fill="#8b5cf6" style="--m:.85;animation-duration:1.7s"/>
+<rect class="b" x="812" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:.65;animation-duration:0.94s"/>
+<rect class="b" x="835" y="35" width="10" height="75" rx="3" fill="#00f0ff" style="--m:.9;animation-duration:1.6s"/>
+<rect class="b" x="858" y="35" width="10" height="75" rx="3" fill="#8b5cf6" style="--m:.5;animation-duration:1.38s"/>
+</g>
+<rect x="30" y="112" width="838" height="1" fill="url(#g)" opacity=".6"/>
+<text x="450" y="146" text-anchor="middle" font-size="15" fill="url(#g)" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" letter-spacing="2">// eof — thanks for stopping by. let's build something.</text>
+</svg>
