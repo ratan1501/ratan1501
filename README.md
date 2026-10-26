@@ -1,40 +1,118 @@
-# <h1 align="center">About Me</h1>
-<h1 align="center">Hi, I'm Ratan Deep Mishra</h1>
+
+<!-- ========== ANIMATED HEADER ========== -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:00D9FF,100:7B2FF7&height=200&section=header&text=Ratan%20Deep%20Mishra&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=16" width="100%" alt="Animated profile banner"/>
+</div>
+
+<h1 align="center">👋 Hi, I'm Ratan Deep Mishra</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Problem+Solver+%F0%9F%A7%A9;System+Design+Enthusiast;Building+Ideas+Into+Reality;Always+Learning+%26+Growing+%F0%9F%9A%80" alt="Typing animation"/>
+</div>
 
 <p align="center">
-MERN Stack Developer | Problem Solver | System Design Enthusiast
-</p>Curious about how things work under the hood. I enjoy solving problems, exploring system design and application architecture, and learning the deeper logic behind modern web technologies. Alongside MERN development and DSA, I’m always experimenting, learning, and building with a practical mindset.<br>
-
-
-<h1 align="center">🌐 Socials</h1>
-
-<p align="center">
+  <a href="https://github.com/ratan1501">
+    <img src="https://img.shields.io/badge/GitHub-ratan1501-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
   <a href="https://linkedin.com/in/ratan-deep-mishra-03065b27a">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
-# <h1 align="center">💻 Tech Stack</h1>
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# <h1 align="center">📊 GitHub Stats</h1>
-![](https://github-readme-stats.shion.dev/api?username=ratan1501&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ratan1501&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ratan1501&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ratan1501&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile views"/>
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://github.com/ratan1501/ratan1501/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
-</p>
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding animation" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 💻 MERN Stack Developer passionate about building web applications.
+- 🧩 Enjoy solving problems and practicing DSA.
+- 🏗️ Interested in system design and application architecture.
+- 🌱 Constantly learning new technologies and development practices.
+- 🚀 Focused on turning ideas into practical projects.
+- ⚡ Curious about how things work under the hood.
+
+<br clear="both"/>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ratan1501&label=Visitor+Counter&color=green&style=plastic" alt="Profile Views" />
+  <a href="https://linkedin.com/in/ratan-deep-mishra-03065b27a">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ratan1501">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,css" alt="Languages"/>
+</p>
+
+### ⚛️ Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,figma,framer" alt="Frontend technologies"/>
+</p>
+
+### 🖥️ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,nginx,npm,bun" alt="Backend technologies"/>
+</p>
+
+### ☁️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,aws,vercel,netlify" alt="Tools and platforms"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ratan1501&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ratan1501&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
+  <br/><br/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ratan1501&theme=dark&hide_border=true&layout=compact" alt="Most used programming languages"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/ratan1501/ratan1501/blob/output/github-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+</div>
+
+---
+
+## 💭 Random Developer Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random developer quote"/>
+</div>
+
+---
+
+<div align="center">
+  <h3>✨ Code. Learn. Build. Repeat. 🚀</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:00D9FF,100:050816&height=100&section=footer" width="100%" alt="Footer banner"/>
+</div>
