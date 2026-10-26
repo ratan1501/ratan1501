@@ -19,9 +19,9 @@
 <div align="center">
   <img src="./assets/orbit.svg" width="100%" alt="Animated orbit of my tech stack"/>
 </div>
-
-
 <img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./assets/snake.svg" width="100%" alt="Contribution snake"/>
+
 
 <div align="center">
   <img src="./assets/streak.svg" width="100%" alt="GitHub streak stats"/>
@@ -29,9 +29,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ratan1501/ratan1501/output/snake.svg" width="100%" alt="Contribution snake"/>
-</div>
+
 
 ## `// currently`
 
