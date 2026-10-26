@@ -22,15 +22,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## `// featured_projects`
 
-| Project | What it does | Stack |
-|:--|:--|:--|
-| **[project-one](https://github.com/ratan1501/project-one)** | One line on the problem it solves | `React` `Node.js` `MongoDB` |
-| **[project-two](https://github.com/ratan1501/project-two)** | One line on the problem it solves | `TypeScript` `Express` `SQL` |
-| **[portfolio](https://github.com/ratan1501)** | My personal dev portfolio | `React` `Vite` `Tailwind` |
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## `// currently`
 
