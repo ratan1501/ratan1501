@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#00f0ff"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+<radialGradient id="core"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".9"/><stop offset="1" stop-color="#00f0ff" stop-opacity="0"/></radialGradient></defs>
+<rect width="900" height="470" rx="16" fill="#05070f"/>
+<rect x="1" y="1" width="898" height="468" rx="15" fill="none" stroke="url(#g)" stroke-opacity=".4" stroke-width="1.5"/>
+<text x="30" y="38" font-size="13" fill="#5b6b86" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" letter-spacing="3">// TECH.ORBIT — live</text>
+<circle cx="450" cy="235" r="85" fill="none" stroke="#00f0ff" stroke-opacity=".28" stroke-dasharray="3 7"/>
+<circle cx="450" cy="235" r="148" fill="none" stroke="#8b5cf6" stroke-opacity=".28" stroke-dasharray="3 7"/>
+<circle cx="450" cy="235" r="208" fill="none" stroke="#a3ff6b" stroke-opacity=".28" stroke-dasharray="3 7"/>
+<g transform="translate(450 235)">
+<g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="30s" repeatCount="indefinite"/>
+<g transform="rotate(10.0)"><g transform="translate(85 0)"><g><animateTransform attributeName="transform" type="rotate" from="-10.0" to="-370.0" dur="30s" repeatCount="indefinite"/>
+<rect x="-32.5" y="-14" width="65.0" height="28" rx="14" fill="#0a1020" stroke="#00f0ff" stroke-width="1.5"/><circle cx="-21.5" cy="0" r="3" fill="#00f0ff"/>
+<text x="6" y="5" text-anchor="middle" font-size="13" fill="#e6edf7" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace">React</text></g></g></g>
+<g transform="rotate(150.0)"><g transform="translate(85 0)"><g><animateTransform attributeName="transform" type="rotate" from="-150.0" to="-510.0" dur="30s" repeatCount="indefinite"/>
+<rect x="-54.0" y="-14" width="108.0" height="28" rx="14" fill="#0a1020" stroke="#00f0ff" stroke-width="1.5"/><circle cx="-43.0" cy="0" r="3" fill="#00f0ff"/>
+<text x="6" y="5" text-anchor="middle" font-size="13" fill="#e6edf7" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace">TypeScript</text></g></g></g>
+<g transform="rotate(244.0)"><g transform="translate(85 0)"><g><animateTransform attributeName="transform" type="rotate" from="-244.0" to="-604.0" dur="30s" repeatCount="indefinite"/>
+<rect x="-54.0" y="-14" width="108.0" height="28" rx="14" fill="#0a1020" stroke="#00f0ff" stroke-width="1.5"/><circle cx="-43.0" cy="0" r="3" fill="#00f0ff"/>
+<text x="6" y="5" text-anchor="middle" font-size="13" fill="#e6edf7" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace">JavaScript</text></g></g></g>
+</g>
+<g><animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="46s" repeatCount="indefinite"/>
+<g transform="rotate(12.0)"><g transform="translate(148 0)"><g><animateTransform attributeName="transform" type="rotate" from="-12.0" to="348.0" dur="46s" repeatCount="indefinite"/>
+<rect x="-41.1" y="-14" width="82.2" height="28" rx="14" fill="#0a1020" stroke="#8b5cf6" stroke-width="1.5"/><circle cx="-30.1" cy="0" r="3" fill="#8b5cf6"/>
+<text x="6" y="5" text-anchor="middle" font-size="13" fill="#e6edf7" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace">Node.js</text></g></g></g>
+<g transform="rotate(110.0)"><g transform="translate(148 0)"><g><animateTransform attributeName="transform" type="rotate" from="-110.0" to="250.0" dur="46s" repeatCount="indefinite"/>
+<rect x="-41.1" y="-14" width="82.2" height="28" rx="14" fill="#0a1020" stroke="#8b5cf6" stroke-width="1.5"/><circle cx="-30.1" cy="0" r="3" fill="#8b5cf6"/>
+<text x="6" y="5" text-anchor="middle" font-size="13" fill="#e6edf7" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace">Express</text></g></g></g>
+<g transform="rotate(181.0)"><g transform="translate(148 0)"><g><animateTransform attributeName="transform" type="rotate" from="-181.0" to="179.0" dur="46s" repeatCount="indefinite"/>
+<rect x="-41.1" y="-14" width="82.2" height="28" rx="14" fill="#0a1020" stroke="#8b5cf6" stroke-width="1.5"/><circle cx="-30.1" cy="0" r="3" fill="#8b5cf6"/>
+<text x="6" y="5" text-anchor="middle" font-size="13" fill="#e6edf7" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace">MongoDB</text></g></g></g>
+<g transform="rotate(272.0)"><g transform="translate(148 0)"><g><animateTransform attributeName="transform" type="rotate" from="-272.0" to="88.0" dur="46s" repeatCount="indefinite"/>
+<rect x="-23.9" y="-14" width="47.8" height="28" rx="14" fill="#0a1020" stroke="#8b5cf6" stroke-width="1.5"/><circle cx="-12.9" cy="0" r="3" fill="#8b5cf6"/>
+<text x="6" y="5" text-anchor="middle" font-size="13" fill="#e6edf7" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace">SQL</text></g></g></g>
+</g>
+<g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="64s" repeatCount="indefinite"/>
+<g transform="rotate(26.0)"><g transform="translate(208 0)"><g><animateTransform attributeName="transform" type="rotate" from="-26.0" to="-386.0" dur="64s" repeatCount="indefinite"/>
+<rect x="-23.9" y="-14" width="47.8" height="28" rx="14" fill="#0a1020" stroke="#a3ff6b" stroke-width="1.5"/><circle cx="-12.9" cy="0" r="3" fill="#a3ff6b"/>
+<text x="6" y="5" text-anchor="middle" font-size="13" fill="#e6edf7" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace">C++</text></g></g></g>
+<g transform="rotate(107.0)"><g transform="translate(208 0)"><g><animateTransform attributeName="transform" type="rotate" from="-107.0" to="-467.0" dur="64s" repeatCount="indefinite"/>
+<rect x="-36.8" y="-14" width="73.6" height="28" rx="14" fill="#0a1020" stroke="#a3ff6b" stroke-width="1.5"/><circle cx="-25.8" cy="0" r="3" fill="#a3ff6b"/>
+<text x="6" y="5" text-anchor="middle" font-size="13" fill="#e6edf7" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace">Python</text></g></g></g>
+<g transform="rotate(183.0)"><g transform="translate(208 0)"><g><animateTransform attributeName="transform" type="rotate" from="-183.0" to="-543.0" dur="64s" repeatCount="indefinite"/>
+<rect x="-23.9" y="-14" width="47.8" height="28" rx="14" fill="#0a1020" stroke="#a3ff6b" stroke-width="1.5"/><circle cx="-12.9" cy="0" r="3" fill="#a3ff6b"/>
+<text x="6" y="5" text-anchor="middle" font-size="13" fill="#e6edf7" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace">Git</text></g></g></g>
+<g transform="rotate(281.0)"><g transform="translate(208 0)"><g><animateTransform attributeName="transform" type="rotate" from="-281.0" to="-641.0" dur="64s" repeatCount="indefinite"/>
+<rect x="-36.8" y="-14" width="73.6" height="28" rx="14" fill="#0a1020" stroke="#a3ff6b" stroke-width="1.5"/><circle cx="-25.8" cy="0" r="3" fill="#a3ff6b"/>
+<text x="6" y="5" text-anchor="middle" font-size="13" fill="#e6edf7" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace">DevOps</text></g></g></g>
+</g>
+</g>
+<circle cx="450" cy="235" r="52" fill="url(#core)"><animate attributeName="r" values="46;58;46" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="450" cy="235" r="32" fill="#0a1020" stroke="url(#g)" stroke-width="2"/>
+<text x="450" y="242" text-anchor="middle" font-size="20" font-weight="700" fill="url(#g)" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace">RDM</text>
+</svg>
