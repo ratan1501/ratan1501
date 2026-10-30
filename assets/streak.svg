@@ -6,7 +6,7 @@
 .f{opacity:0;animation:fi .6s ease forwards}
 @keyframes fi{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
 .ring{stroke-dasharray:326.7;stroke-dashoffset:326.7;animation:draw 1.6s .4s cubic-bezier(.3,.7,.2,1) forwards}
-@keyframes draw{to{stroke-dashoffset:320.2}}
+@keyframes draw{to{stroke-dashoffset:285.9}}
 .b{transform-box:fill-box;transform-origin:bottom;transform:scaleY(0);animation:grow .5s ease-out forwards}
 @keyframes grow{to{transform:scaleY(1)}}
 </style>
@@ -19,7 +19,7 @@
 <text x="450" y="26" text-anchor="middle" font-size="13" fill="#5b6b86" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace">streak.sh --user ratan1501</text>
 
 <g class="f" style="animation-delay:.2s" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" text-anchor="middle">
-<text x="150" y="118" font-size="40" font-weight="700" fill="url(#g)">178</text>
+<text x="150" y="118" font-size="40" font-weight="700" fill="url(#g)">180</text>
 <text x="150" y="150" font-size="13" fill="#e6edf7" letter-spacing="2">TOTAL CONTRIBUTIONS</text>
 <text x="150" y="172" font-size="11" fill="#5b6b86">Jan 1, 2024 – Present</text>
 </g>
@@ -28,9 +28,9 @@
 <circle cx="450" cy="115" r="52" fill="none" stroke="#16283a" stroke-width="7"/>
 <circle class="ring" cx="450" cy="115" r="52" fill="none" stroke="url(#g)" stroke-width="7" stroke-linecap="round" transform="rotate(-90 450 115)"/>
 <g class="f" style="animation-delay:.5s">
-<text x="450" y="127" font-size="36" font-weight="700" fill="#a3ff6b">0</text>
+<text x="450" y="127" font-size="36" font-weight="700" fill="#a3ff6b">1</text>
 <text x="450" y="184" font-size="13" fill="#e6edf7" letter-spacing="2">CURRENT STREAK</text>
-<text x="450" y="205" font-size="11" fill="#5b6b86">no active streak — go commit!</text>
+<text x="450" y="205" font-size="11" fill="#5b6b86">Oct 30, 2026 – Oct 30, 2026</text>
 </g>
 </g>
 
@@ -71,6 +71,6 @@
 <rect class="b" x="736" y="250.0" width="18" height="50.0" rx="3" fill="#8b5cf6" style="animation-delay:2.04s"/>
 <rect class="b" x="762" y="297.0" width="18" height="3.0" rx="3" fill="#16283a" style="animation-delay:2.08s"/>
 <rect class="b" x="788" y="297.0" width="18" height="3.0" rx="3" fill="#16283a" style="animation-delay:2.12s"/>
-<rect class="b" x="814" y="297.0" width="18" height="3.0" rx="3" fill="#16283a" style="animation-delay:2.16s"/>
+<rect class="b" x="814" y="286.0" width="18" height="14.0" rx="3" fill="#00f0ff" style="animation-delay:2.16s"/>
 <rect x="60" y="302" width="780" height="1" fill="url(#g)" opacity=".5"/>
 </svg>
